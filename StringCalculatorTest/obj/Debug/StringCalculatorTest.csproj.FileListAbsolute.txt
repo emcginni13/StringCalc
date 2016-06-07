@@ -1,0 +1,8 @@
+c:\users\emcginnis\documents\visual studio 2015\Projects\ClassLibrary1\StringCalculatorTest\bin\Debug\StringCalculatorTest.dll
+c:\users\emcginnis\documents\visual studio 2015\Projects\ClassLibrary1\StringCalculatorTest\bin\Debug\StringCalculatorTest.pdb
+c:\users\emcginnis\documents\visual studio 2015\Projects\ClassLibrary1\StringCalculatorTest\bin\Debug\ClassLibrary1.dll
+c:\users\emcginnis\documents\visual studio 2015\Projects\ClassLibrary1\StringCalculatorTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\emcginnis\documents\visual studio 2015\Projects\ClassLibrary1\StringCalculatorTest\bin\Debug\ClassLibrary1.pdb
+c:\users\emcginnis\documents\visual studio 2015\Projects\ClassLibrary1\StringCalculatorTest\obj\Debug\StringCalculatorTest.csprojResolveAssemblyReference.cache
+c:\users\emcginnis\documents\visual studio 2015\Projects\ClassLibrary1\StringCalculatorTest\obj\Debug\StringCalculatorTest.dll
+c:\users\emcginnis\documents\visual studio 2015\Projects\ClassLibrary1\StringCalculatorTest\obj\Debug\StringCalculatorTest.pdb
