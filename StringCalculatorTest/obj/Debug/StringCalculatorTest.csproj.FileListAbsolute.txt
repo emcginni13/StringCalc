@@ -6,3 +6,17 @@ c:\users\emcginnis\documents\visual studio 2015\Projects\ClassLibrary1\StringCal
 c:\users\emcginnis\documents\visual studio 2015\Projects\ClassLibrary1\StringCalculatorTest\obj\Debug\StringCalculatorTest.csprojResolveAssemblyReference.cache
 c:\users\emcginnis\documents\visual studio 2015\Projects\ClassLibrary1\StringCalculatorTest\obj\Debug\StringCalculatorTest.dll
 c:\users\emcginnis\documents\visual studio 2015\Projects\ClassLibrary1\StringCalculatorTest\obj\Debug\StringCalculatorTest.pdb
+C:\Projects\StringCalculator\ClassLibrary1\StringCalculatorTest\bin\Debug\StringCalculatorTest.dll
+C:\Projects\StringCalculator\ClassLibrary1\StringCalculatorTest\bin\Debug\StringCalculatorTest.pdb
+C:\Projects\StringCalculator\ClassLibrary1\StringCalculatorTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Projects\StringCalculator\ClassLibrary1\StringCalculatorTest\obj\Debug\StringCalculatorTest.csprojResolveAssemblyReference.cache
+C:\Projects\StringCalculator\ClassLibrary1\StringCalculatorTest\obj\Debug\StringCalculatorTest.dll
+C:\Projects\StringCalculator\ClassLibrary1\StringCalculatorTest\obj\Debug\StringCalculatorTest.pdb
+C:\Projects\StringCalculator\Calculator\StringCalculatorTest\obj\Debug\StringCalculatorTest.csprojResolveAssemblyReference.cache
+C:\Projects\StringCalculator\Calculator\StringCalculatorTest\obj\Debug\StringCalculatorTest.dll
+C:\Projects\StringCalculator\Calculator\StringCalculatorTest\obj\Debug\StringCalculatorTest.pdb
+C:\Projects\StringCalculator\Calculator\StringCalculatorTest\bin\Debug\StringCalculatorTest.dll
+C:\Projects\StringCalculator\Calculator\StringCalculatorTest\bin\Debug\StringCalculatorTest.pdb
+C:\Projects\StringCalculator\Calculator\StringCalculatorTest\bin\Debug\ClassLibrary1.dll
+C:\Projects\StringCalculator\Calculator\StringCalculatorTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Projects\StringCalculator\Calculator\StringCalculatorTest\bin\Debug\ClassLibrary1.pdb

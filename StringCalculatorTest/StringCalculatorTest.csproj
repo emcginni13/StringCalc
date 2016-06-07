@@ -54,7 +54,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ClassLibrary1\Calculator.csproj">
+    <ProjectReference Include="..\Calculator\Calculator.csproj">
       <Project>{234A101D-93B7-4DF1-9A6F-6CC93B04E514}</Project>
       <Name>Calculator</Name>
     </ProjectReference>
